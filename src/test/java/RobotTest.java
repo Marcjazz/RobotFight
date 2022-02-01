@@ -14,7 +14,9 @@ class RobotTest {
 
     @Test
     void getRobotName() {
+
+
         Robot robot = new Robot("D2R2");
-        assertEquals();
+        assertEquals("Robot D2R2", robot.getRobotName());
     }
 }
