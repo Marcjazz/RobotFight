@@ -7,6 +7,7 @@ class RobotTest {
     Robot robot2 = new Robot("Data");
     @org.junit.jupiter.api.Test
     void fire() {
+
     }
 
     @org.junit.jupiter.api.Test
